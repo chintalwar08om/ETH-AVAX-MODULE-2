@@ -2,13 +2,6 @@
 
 This is a Solidity smart contract for managing an account with deposit ,burn and withdrawal functionality.
 
-## *Contents of code*
-
-- [*Introduction*](#introduction)
-- [*Getting Started*](#getting-started)
-- [*Usage*](#usage)
-- [*Functions*](#functions)
-
 ## *Description*
 
 The `Assessment` smart contract allows for basic account management, enabling deposits, burn and withdrawals. It logs transactions and provides an overview of the transaction history.
@@ -19,7 +12,7 @@ The `Assessment` smart contract allows for basic account management, enabling de
 - [*Solidity*](https://soliditylang.org/) (>= 0.8.9)
 - Ethereum development environment
 
-## *Functions*
+## *Functions of code *
 
 'constructor(uint256 initBalance) payable'
 Initializes the contract with an initial balance.
